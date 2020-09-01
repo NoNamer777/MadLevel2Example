@@ -1,4 +1,4 @@
-package com.nonamer777.madlevevl2example
+package com.nonamer777.madlevel2example
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -6,8 +6,8 @@ import androidx.recyclerview.widget.DividerItemDecoration
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.google.android.material.snackbar.Snackbar
-import com.nonamer777.madlevevl2example.databinding.ActivityMainBinding
-import com.nonamer777.madlevevl2example.model.Reminder
+import com.nonamer777.madlevel2example.databinding.ActivityMainBinding
+import com.nonamer777.madlevel2example.model.Reminder
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {

@@ -1,11 +1,11 @@
-package com.nonamer777.madlevevl2example
+package com.nonamer777.madlevel2example
 
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.nonamer777.madlevevl2example.databinding.ItemReminderBinding
-import com.nonamer777.madlevevl2example.model.Reminder
+import com.nonamer777.madlevel2example.databinding.ItemReminderBinding
+import com.nonamer777.madlevel2example.model.Reminder
 
 class ReminderAdapter(private val reminders: List<Reminder>):
     RecyclerView.Adapter<ReminderAdapter.ViewHolder>() {

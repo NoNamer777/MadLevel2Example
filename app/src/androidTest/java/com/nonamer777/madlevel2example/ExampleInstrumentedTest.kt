@@ -1,4 +1,4 @@
-package com.nonamer777.madlevevl2example
+package com.nonamer777.madlevel2example
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
