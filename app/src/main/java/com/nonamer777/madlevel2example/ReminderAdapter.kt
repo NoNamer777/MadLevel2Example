@@ -1,4 +1,4 @@
-package com.nonamer777.madlevel2example
+package com.nonamer777.madlevel2example.model
 
 import android.view.LayoutInflater
 import android.view.View
